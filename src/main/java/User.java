@@ -2,7 +2,10 @@ public class User {
     private String name;
     private String lastName;
     private int age;
-    private 
+    private BankAccount bankAccount;
+
+    public User(String jan, String kowalski, int i) {
+    }
 
     public String getName() {
         return name;
@@ -27,13 +30,10 @@ public class User {
     public void setAge(int age) {
         this.age = age;
     }
-
-    public User(String name, String lastName, int age) {
-        this.name = name;
-        this.lastName = lastName;
-        this.age = age;
+    public void setBankAccount(BankAccount bankAccount){
+        this.bankAccount=bankAccount;
     }
-
-    public User() {
+    public  BankAccount getBankAccount(){
+        return this.bankAccount;
     }
 }

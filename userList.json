@@ -1,0 +1,46 @@
+[
+  {
+    "name": null,
+    "lastName": null,
+    "age": 0,
+    "bankAccount": {
+      "id": 1,
+      "name": "BankDlaBogatych",
+      "accountNumber": 5555,
+      "balance": 6555.0
+    }
+  },
+  {
+    "name": null,
+    "lastName": null,
+    "age": 0,
+    "bankAccount": {
+      "id": 2,
+      "name": "BankNowoczesny",
+      "accountNumber": 4444,
+      "balance": 6532455.0
+    }
+  },
+  {
+    "name": null,
+    "lastName": null,
+    "age": 0,
+    "bankAccount": {
+      "id": 3,
+      "name": "Bank",
+      "accountNumber": 3333,
+      "balance": 234234.0
+    }
+  },
+  {
+    "name": null,
+    "lastName": null,
+    "age": 0,
+    "bankAccount": {
+      "id": 4,
+      "name": "BigBank",
+      "accountNumber": 2222,
+      "balance": 2342.0
+    }
+  }
+]
